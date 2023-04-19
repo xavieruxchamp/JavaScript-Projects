@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Elements Challenge</title>
+        <meta charset="utf-8">
+        <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+        <script src="./JS/tictactoe.js" defer></script>
+        <link rel="stylesheet" href="./css/game.css">
+    </head>
+   
+    <body onclick="myFunction()">
+        <h1>DOM object</h1>
+       
+        <p>Reveal the active element by clicking anywhere below:</p>
+        <input type="text" value="Your text here">
+        <button>Click here</button>
+        <p>Reveal active element by clicking anywhere:</p>
+        <p id="demo"></p>
+
+
+
+        <script>
+        function myFunction() {
+          const element = document.activeElement.tagName;
+          document.getElementById("demo").innerHTML = element;
+        }
+        </script>
+
+    </body>
+
+</html>
