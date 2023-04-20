@@ -1,5 +1,5 @@
 # JavaScript-Projects
-Here are some small projects using JavaScript.
+Here are some of my most recents projects using JavaScript.
 
 ## Projects
 
