@@ -11,7 +11,7 @@ Here are some small projects using JavaScript.
 This project is a menu used to order pizzas with different toppings. I then takes the selections and calculates the price of the order.
 
 ## Tic-Tac-Toe Game
-This is the classic game of Tic-Tac-Toe. It randomly selects one of the two players to play. As a player, the  program is also able to make a selection at randon. Whoever wins is celebrated with an alert. 
+This is the classic game of Tic-Tac-Toe. It randomly selects one of the two players to play. As a player, the  program is also able to make a selection at random. Whoever wins is celebrated with an alert. 
 
 ## Calculator
-This is a basic 4 function calculator. Users may add, substract, multiply, and divide on a cool lookiin interface.
+This is a basic 4 function calculator. Users may add, substract, multiply, and divide on a cool looking interface.
