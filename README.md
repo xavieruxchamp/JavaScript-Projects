@@ -5,7 +5,7 @@ Here are some of my most recents projects using JavaScript.
 
 - [Pizza Menu](https://github.com/xavieruxchamp/JavaScript-Projects/tree/main/Basic%20JavaScript%20Projects/Pizza_Project)
 - [Tic-Tac-Toe](https://github.com/xavieruxchamp/JavaScript-Projects/blob/main/Basic%20JavaScript%20Projects/Tic%20Tac%20Toe/)
-- [Calculator]
+- [Calculator] (https://github.com/xavieruxchamp/JavaScript-Projects/tree/main/Basic%20JavaScript%20Projects/Calculator)
 
 ## Pizza Menu
 This project is a menu used to order pizzas with different toppings. I then takes the selections and calculates the price of the order.
